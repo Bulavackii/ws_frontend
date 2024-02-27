@@ -1,1 +1,1 @@
-![CI](https://github.com/Bulavackii/ws_frontend/actions/workflows/CD.yml/badge.svg)
+![CI](https://github.com/Bulavackii/ws_frontend/actions/workflows/web.yml/badge.svg)
